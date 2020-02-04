@@ -1,0 +1,44 @@
+Id	Time	Plate	Row	Column	Source well	Clog	Sorted status	In Regions	TOF	Extinction	Green	Yellow	Red	PH Extinction	PW Extinction	PC Extinction	PH Green	PW Green	PC Green	PH Yellow	PW Yellow	PC Yellow	PH Red	PW Red	PC Red	
+1	3558557	n/a	0	0	n/a	N	0	000000	60	2.99	0.02	0.05	0.11	4412	60	n/a	44	56	n/a	100	60	n/a	260	60	n/a	
+2	3562209	n/a	0	0	n/a	N	0	000000	196	11.5	0.06	0.07	0.12	5552	196	n/a	52	196	n/a	60	192	n/a	180	116	n/a	
+3	3562716	n/a	0	0	n/a	N	0	000000	108	5.39	0.03	0.03	0.16	4396	108	n/a	36	104	n/a	48	96	n/a	212	108	n/a	
+
+Data stored after review. Instrument settings have not been altered
+
+
+FlowCell: 1000 micron
+Scan Rate: 1250K
+Trigger source: Extinction
+Signal threshold: 500
+Minimum time of flight: 60
+Signal gains:
+	Extinction: 1.0
+	Green: 1.0
+	Yellow: 1.0
+	Red: 1.0
+Extinction detector power: 
+0.00
+PMT voltage:
+	Green: 350
+	Yellow: 400
+	Red: 650
+Pressure:
+0.000;0.300;1.500
+Drop width: 8.0
+Sort delay: 10.0
+Lasers:
+Sapphire488	power = 50
+Cube405	power = 50
+Sapphire561	power = 50
+
+R2 (TOF;Extinction): 893,160; 922,16; 1416,64; 1350,232;
+R4 (TOF;Extinction): 774,1472; 929,520; 2258,712; 2841,1432; 2686,2008; 1697,1896;
+R1 (TOF;Extinction): 1129,952; 1166,800; 1594,1088; 1749,1192; 1756,1344; 1579,1352;
+R5 (TOF;Extinction): 730,1160; 870,464; 2324,736; 2191,1680; 642,1328;
+R6 (TOF;Extinction): 841,312; 1719,504; 2287,696; 2841,1480; 2789,2008; 2250,1928; 509,480; 464,280; 546,240;
+Sort gate:
+ Individual gates for each well
+Stored data gate:
+None
+Partial profiles:  None
+Data stored: RAW (not compensated)
